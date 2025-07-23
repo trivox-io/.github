@@ -55,13 +55,13 @@ This organization will host:
 ## 🚧 Status
 
 Trivox is in active development.  
-Follow [@rincorpes](https://github.com/rincorpes) for updates, or star the repos as they become public.
+Follow [@rincorpes](https://github.com/alexsc6955) for updates, or star the repos as they become public.
 
 ---
 
 ## 👥 Who’s Behind Trivox?
 
-Trivox was founded by [Santiago Rincón](https://github.com/rincorpes), a senior Python developer building creative automation pipelines at ICVR.  
+Trivox was founded by [Santiago Rincón](https://github.com/alexsc6955), a senior Python developer building creative automation pipelines at ICVR.  
 It is shaped by real workflows, creator pain points, and the need for better, more flexible tools.
 
 ---
@@ -73,7 +73,9 @@ Trivox is looking for:
 - Studios interested in contributing or adopting the engine  
 - Developers who care about clean, extensible code  
 
-Reach out via [LinkedIn](https://linkedin.com/in/...), [Instagram](https://instagram.com/...), or open an issue.
+Reach out via 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsc6955/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rincorpes/).
 
 ---
 
